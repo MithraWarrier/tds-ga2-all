@@ -15,7 +15,7 @@ from pydantic import BaseModel, Field
 
 import config
 
-LLM_MODEL = "qwen2.5:0.5b"
+LLM_MODEL = "llama3.2:latest"
 START_TIME = time.time()
 app = FastAPI()
 redis_client = redis.Redis(host="localhost", port=6379, db=0, decode_responses=True)
