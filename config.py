@@ -4,7 +4,7 @@
 # ==========================================
 
 # 1. Your IITM Email
-EMAIL = "your_email@example.com"
+EMAIL = "22f3000996@ds.study.iitm.ac.in"
 
 # 2. Q1: CORS Allowed Origin
 Q1_ALLOWED_ORIGIN = "https://app-xxxxxx.example.com"
